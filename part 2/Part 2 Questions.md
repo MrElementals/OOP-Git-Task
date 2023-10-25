@@ -55,7 +55,7 @@ Question 11 / True or False: It is okay to commit broken code to the main branch
 False (Just don't. you can just dont)
 
 Question 12 / True or False: A commit should only include files that are related to the change you are committing to the repo.
-true (Yes and No, you may have changed something with in another section by accident so you know all changes are there)
+True
 
 Question 13 / Describe what is DevOps, how is it useful for game developers?Development and operations teams are no longer separate spaces in a DevOps model. These two teams may merge into a single team in which the engineers work across the entire application lifecycle, from development and testing to deployment and operations.
 
