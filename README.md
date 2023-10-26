@@ -1,1 +1,4 @@
-[document](C:\Users\3d0b861d6285e32a\Documents\GitHub\OOP-Git-Task\part 2\Part 2 Questions.md)
+Read Me
+
+[Part 2 Questions And Awnsers](https://github.com/MrElementals/OOP-Git-Task/blob/Development/part%202/Part%202%20Questions.md)
+
