@@ -57,6 +57,8 @@ False (Just don't. you can just dont)
 Question 12 / True or False: A commit should only include files that are related to the change you are committing to the repo.
 True
 
+small change
+
 Question 13 / Describe what is DevOps, how is it useful for game developers?Development and operations teams are no longer separate spaces in a DevOps model. These two teams may merge into a single team in which the engineers work across the entire application lifecycle, from development and testing to deployment and operations.
 
 Question 14 / List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
